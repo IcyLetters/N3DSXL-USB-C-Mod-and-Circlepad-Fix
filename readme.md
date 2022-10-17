@@ -19,10 +19,11 @@ Remove the 8 screws, these are longer than the other screws in the console so be
   
 #### 3. Drill and widen port
 <img src="/images/IMG_0941.JPEG" alt="Finished port" width="300" />
-The port should be roughly the same thickness of the holes for the carrying strap. Speaking of which, it's no longer usable with this mod. You cut the plastic to make it fit better. You also cute the plastic near the original charging port, this is to make the cables fit better as we will be bending them behind the mainboard.  
-
+The port should be roughly the same thickness of the holes for the carrying strap. Speaking of which, it's no longer usable with this mod. You cut the plastic to make it fit better. You also cut the plastic near the original charging port, this is to make the cables fit better as we will be bending them behind the mainboard.  
 
 Filing the port is the most tedious part but it's all you will see on the outside, so take your time. A good hack is to try and fit the port outside the shell so you know the hole is the correct size. Basically just see if you can push it in from the outside. You also need to file down the stylus slot just a bit to make it seat better. When finished the port should fit like in the picture below.  
+
+I use a rotary tool to drill a pilot hole then file it out based on measurements of the port I take with a caliper.
 
 <img src="/images/IMG_0940.JPEG" alt="Finished mod" width="300" />
 
