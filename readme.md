@@ -10,8 +10,6 @@ So essentially this can be broken down into two guides. One on adding a USB-C po
 
 ## Main Guide
 
-This is the most tedious process of the entire mod, it will take roughly half an hour to an hour depending. This is also the most important part cosmetically, if you mess up here there is no fixing it. So make sure you proceed carefully and have patience.
-
 #### 1. Remove back panel.  
 <img src="/images/IMG_0939.JPEG" alt="Back Cover" width="300" />
 Remove the 8 screws, these are longer than the other screws in the console so be sure to keep them separate. The top two are covered by the rubber nubs, so also remove those and put them aside.
@@ -22,6 +20,7 @@ Remove the 8 screws, these are longer than the other screws in the console so be
 #### 3. Drill and widen port
 <img src="/images/IMG_0941.JPEG" alt="Finished port" width="300" />
 The port should be roughly the same thickness of the holes for the carrying strap. Speaking of which, it's no longer usable with this mod. You cut the plastic to make it fit better. You also cute the plastic near the original charging port, this is to make the cables fit better as we will be bending them behind the mainboard.  
+
 
 Filing the port is the most tedious part but it's all you will see on the outside, so take your time. A good hack is to try and fit the port outside the shell so you know the hole is the correct size. Basically just see if you can push it in from the outside. You also need to file down the stylus slot just a bit to make it seat better. When finished the port should fit like in the picture below.  
 
