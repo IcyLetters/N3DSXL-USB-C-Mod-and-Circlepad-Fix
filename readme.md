@@ -12,4 +12,5 @@ So essentially this can be broken down into two guides. One on adding a USB-C po
 
 This is the most tedious process of the entire mod, it will take roughly half an hour to an hour depending. This is also the most important part cosmetically, if you mess up here there is no fixing it. So make sure you proceed carefully and have patience.
 
-1. Remove back panel. ![Back Cover](/images/IMG_0939.jpeg)
+1. Remove back panel.  
+<img src="/images/IMG_0939.JPEG" alt="Back Cover" width="200" />
